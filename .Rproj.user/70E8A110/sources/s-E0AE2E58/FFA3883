@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551866300200.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3881305815",
+    "id" : "FFA3883",
+    "lastKnownWriteTime" : 1551866342,
+    "last_content_update" : 1551866342391,
+    "path" : "~/GitHub/anoREPO/anoREPO.Rmd",
+    "project_path" : "anoREPO.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
